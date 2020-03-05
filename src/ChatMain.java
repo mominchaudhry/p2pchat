@@ -627,7 +627,7 @@ public class ChatMain extends javax.swing.JFrame {
                 //ListenThreadDir();
 
             } catch (Exception ex) {
-
+                System.out.print("FAIL");
 
             }
         }
